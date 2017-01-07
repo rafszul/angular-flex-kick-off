@@ -1,10 +1,10 @@
-import { YuElevatedPage } from './app.po';
+import { AngularFlexKickOffPage } from './app.po';
 
-describe('yuElevated App', function () {
-  let page: YuElevatedPage;
+describe('AngularFlexKickOff App', function () {
+  let page: AngularFlexKickOffPage;
 
   beforeEach(() => {
-    page = new YuElevatedPage();
+    page = new AngularFlexKickOffPage();
   });
 
   it('should display message saying app works', () => {
